@@ -1,0 +1,2 @@
+# goGopher
+Trying out Golang
